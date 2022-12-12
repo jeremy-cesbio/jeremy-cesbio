@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @jeremy-cesbio. I work on Earth Observation applied to biosphere understanding and monitoring (CESBIO).
+- 👀 I’m interested in learning more about efficient python coding.
+- 📫 Reach me by mail: jeremy.auclair@ird.fr
